@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-GPG Fingerprint: ```2CA7 448A F0BB B6D1 472B  A4FE 6A2D B1BB 5E11 5EBF```
+GPG Fingerprint: ```6473 8FEA A950 5094 6A3C  1474 4ABC 794F C864 1920```
 
 <a target="_blank" href="https://www.linkedin.com/in/omar-h-farag/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
 <a target="_blank" href="mailto:omarfarag74@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
